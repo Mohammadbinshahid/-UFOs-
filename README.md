@@ -7,19 +7,19 @@ To build a dynamic webpage that adjusts to user inputs to display information ab
 ## Results: 
 
 This is the initial page, users can navigate through the page by using one or multiple filter criteria
-
+![Initial Webpage](https://user-images.githubusercontent.com/104873181/182051051-73b9d023-7775-4799-96f9-9b0911159470.png)
 
 #Webpage filtered by Date
-
+![Image filtered by date](https://user-images.githubusercontent.com/104873181/182051066-d72debb1-b4c5-40af-a183-8de026e6986c.png)
 
 #Webpage filtered by City - Lemon grove
-
+![Image filtered by City Lemon grove](https://user-images.githubusercontent.com/104873181/182051054-bcb28db8-355c-4fb6-8bf3-831896c20c62.png)
 
 #Webpage filtered by State - Florida
-
+![Image filtered by State](https://user-images.githubusercontent.com/104873181/182051071-d093e4d5-2987-4689-8b6c-4053cb231e14.png)
 
 #Webpage filtered by State and Country- New York and US
-
+![Image filtered by State and Country](https://user-images.githubusercontent.com/104873181/182051075-7a662f0d-8836-4c52-b8ac-0093c377cbbf.png)
 
 ## Summary: 
 
